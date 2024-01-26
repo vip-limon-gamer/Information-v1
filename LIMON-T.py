@@ -255,7 +255,7 @@ def is_in_options(num):
 def option():
     # BANNER TOOLS
     clear()
-    stderr.writelines ("""
+    stderr.writelines (f"""
  \033[38;5;196m__       ____   __  ___   ____     _   __
 \033[35;1m/ /      /  _/  /  |/  /  / __ \   / | / /
 \033[36;1m/ /       / /   / /|_/ /  / / / /  /  |/ /
