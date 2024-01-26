@@ -254,7 +254,7 @@ def is_in_options(num):
 
 def option():
     # BANNER TOOLS
-        clear()
+            clear()
     stderr.writelines(f"""
 
               {Wh}[ + ]  C O D E   B Y  LIMON  [ + ]
