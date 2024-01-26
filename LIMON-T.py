@@ -257,7 +257,6 @@ def option():
             clear()
     stderr.writelines(f"""
 
-              {Wh}[ + ]  C O D E   B Y  LIMON  [ + ]{wh}
     """)
 
     stderr.writelines(f"\n\n\n{option_text()}")
